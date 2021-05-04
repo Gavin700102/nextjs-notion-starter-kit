@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: '60X60',
   domain: 'https://www.notion.so/655ksp/60X60-cf354e20bff049a3a62b7def52fcab2f',
-  author: 'Gavin.H',
+  author: 'Gavin H',
 
   // open graph metadata (optional)
   description: 'Example site description',
